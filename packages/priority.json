@@ -1,0 +1,6 @@
+[
+  { "type": "Priority", "name": "Low", "color": "009800" },
+  { "type": "Priority", "name": "Medium", "color": "fbca04" },
+  { "type": "Priority", "name": "High", "color": "eb6420" },
+  { "type": "Priority", "name": "Critical", "color": "e11d21" }
+]
