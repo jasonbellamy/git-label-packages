@@ -1,6 +1,6 @@
 {
   "name": "git-label-packages",
-  "description": "Boilerplate label packages for git-label",
+  "description": "Default label packages for git-label",
   "version": "0.0.0",
   "homepage": "https://github.com/jasonbellamy",
   "author": {
