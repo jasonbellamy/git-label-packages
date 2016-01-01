@@ -1,0 +1,12 @@
+[
+  { "type": "Status", "name": "Abandoned", "color": "000000" },
+  { "type": "Status", "name": "Accepted", "color": "009800" },
+  { "type": "Status", "name": "Available", "color": "bfe5bf" },
+  { "type": "Status", "name": "Blocked", "color": "e11d21" },
+  { "type": "Status", "name": "Completed", "color": "006b75" },
+  { "type": "Status", "name": "In Progress", "color": "cccccc" },
+  { "type": "Status", "name": "On Hold", "color": "e11d21" },
+  { "type": "Status", "name": "Pending", "color": "fef2c0" },
+  { "type": "Status", "name": "Review Needed", "color": "fbca04" },
+  { "type": "Status", "name": "Revision Needed", "color": "e11d21" }
+]
