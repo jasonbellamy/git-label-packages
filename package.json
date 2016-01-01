@@ -1,0 +1,28 @@
+{
+  "name": "git-label-packages",
+  "description": "Boilerplate label packages for git-label",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jasonbellamy",
+  "author": {
+    "name": "Jason Bellamy",
+    "email": "j@sonbellamy.com",
+    "url": "http://jasonbellamy.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonbellamy/git-label-packages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jasonbellamy/git-label-packages/issues"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postpublish": "git push && git push --tag"
+  },
+  "keywords": [
+    "labels",
+    "github",
+    "git",
+    "utils"
+  ]
+}
