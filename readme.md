@@ -1,5 +1,5 @@
 # git-label-packages
-> Boilerplate label packages for git-label
+> Default label packages for git-label
 
 
 ## Getting Started
