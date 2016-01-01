@@ -1,5 +1,5 @@
 # git-label-packages
-> Default label packages for git-label
+> Default label packages for [git-label](https://github.com/jasonbellamy/git-label)
 
 
 ## Getting Started
