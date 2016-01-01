@@ -1,0 +1,6 @@
+[
+  { "type": "Type", "name": "Bug", "color": "e11d21" },
+  { "type": "Type", "name": "Maintenance", "color": "fbca04" },
+  { "type": "Type", "name": "Enhancement", "color": "84b6eb" },
+  { "type": "Type", "name": "Question", "color": "cc317c" }
+]
