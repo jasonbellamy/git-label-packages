@@ -1,4 +1,4 @@
 [
-  { "type": "CLA", "name": "Signed", "color": "009800" },
-  { "type": "CLA", "name": "Unsigned", "color": "e11d21" }
+  { "name": "CLA: Signed", "color": "009800" },
+  { "name": "CLA: Unsigned", "color": "e11d21" }
 ]
