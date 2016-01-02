@@ -1,6 +1,6 @@
 [
-  { "type": "Type", "name": "Bug", "color": "e11d21" },
-  { "type": "Type", "name": "Maintenance", "color": "fbca04" },
-  { "type": "Type", "name": "Enhancement", "color": "84b6eb" },
-  { "type": "Type", "name": "Question", "color": "cc317c" }
+  { "name": "Type: Bug", "color": "e11d21" },
+  { "name": "Type: Maintenance", "color": "fbca04" },
+  { "name": "Type: Enhancement", "color": "84b6eb" },
+  { "name": "Type: Question", "color": "cc317c" }
 ]
