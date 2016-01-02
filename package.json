@@ -1,7 +1,7 @@
 {
   "name": "git-label-packages",
   "description": "Default label packages for git-label",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "homepage": "https://github.com/jasonbellamy",
   "author": {
     "name": "Jason Bellamy",
